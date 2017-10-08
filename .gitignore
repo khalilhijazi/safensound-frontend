@@ -115,3 +115,5 @@ fabric.properties
 *.iml
 out
 gen
+
+safensound-frontend.sublime-project
